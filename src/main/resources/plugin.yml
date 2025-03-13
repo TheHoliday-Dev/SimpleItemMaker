@@ -1,0 +1,7 @@
+name: SimpleItemMaker
+version: '${project.version}'
+main: com.holiday.simpleitemmaker.Main
+api-version: '1.20'
+commands:
+  itemmaker:
+    description: Creatom item

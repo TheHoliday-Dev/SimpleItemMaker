@@ -1,0 +1,48 @@
+title-craft: "&f%img_offset_-8%%img_gui_default%"
+title-success: "&f%img_offset_-8%%img_gui_frame_success%"
+title-failed: "&f%img_offset_-8%%img_gui_frame_fail%"
+
+sound-craft: "survival_island:ui.click"
+
+messages:
+  command-usage: "&cUsage: /simpleitemmaker create <name> / edit <name> / delete <name> / craft <name>"
+  recipe-exists: "&cThere is already a recipe with that name: %recipe%"
+  recipe-not-found: "&cThere is no recipe: %recipe%"
+  recipe-creation-started: "&aStart creating the recipe: %recipe%"
+  recipe-crafting-started: "&aStart of recipe manufacturing: %recipe%"
+  recipe-edit-started: "&aEditing started for the recipe: %recipe%"
+  recipe-deleted: "&aRecipe successfully deleted: %recipe%"
+  reload-plugin: "&aThe plugin has been reloaded."
+  item-model: "&aItem model: %model%"
+  recipe-no: "&cYou must specify a name for the recipe"
+  crafted-success: "&aYou have crafted %recipe% !"
+  crafted-ingredients: "&aYou dont have the necessary ingredients! %recipe%"
+  recipe-success: "&aRecipe saved successfully %recipe%"
+  recipe-no-result: "&cYou must enter a result for the recipe"
+
+button-craft:
+  name: "&c "
+  material: PAPER
+  model: 0
+
+animation-gui:
+  1: "&f%img_offset_-8%%img_gui_press%"
+  2: "&f%img_offset_-8%%img_gui_frame_1%"
+  3: "&f%img_offset_-8%%img_gui_frame_2%"
+  4: "&f%img_offset_-8%%img_gui_frame_3%"
+  5: "&f%img_offset_-8%%img_gui_frame_4%"
+  6: "&f%img_offset_-8%%img_gui_frame_5%"
+  7: "&f%img_offset_-8%%img_gui_frame_6%"
+  8: "&f%img_offset_-8%%img_gui_frame_7%"
+  9: "&f%img_offset_-8%%img_gui_frame_8%"
+  10: "&f%img_offset_-8%%img_gui_frame_9%"
+  11: "&f%img_offset_-8%%img_gui_frame_10%"
+  12: "&f%img_offset_-8%%img_gui_frame_11%"
+  13: "&f%img_offset_-8%%img_gui_frame_12%"
+  14: "&f%img_offset_-8%%img_gui_frame_13%"
+  15: "&f%img_offset_-8%%img_gui_frame_14%"
+  16: "&f%img_offset_-8%%img_gui_frame_15%"
+  17: "&f%img_offset_-8%%img_gui_frame_16%"
+
+animation-speed: 2
+recipes: []

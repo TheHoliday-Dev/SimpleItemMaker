@@ -1,0 +1,10 @@
+com\venned\simpleitemmaker\build\FactoryItem.class
+com\venned\simpleitemmaker\build\PlayerCraft$1.class
+com\venned\simpleitemmaker\manager\FactoryManager.class
+com\venned\simpleitemmaker\build\PlayerCraft.class
+com\venned\simpleitemmaker\gui\CraftGUI.class
+com\venned\simpleitemmaker\utils\MapUtils.class
+com\venned\simpleitemmaker\commands\MainCommand.class
+com\venned\simpleitemmaker\gui\CreationGUI.class
+com\venned\simpleitemmaker\gui\EditGUI.class
+com\venned\simpleitemmaker\Main.class
